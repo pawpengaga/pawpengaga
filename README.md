@@ -1,16 +1,27 @@
-### Hi there 👋
+# 🌸About me🌸
 
-<!--
-**kotoykm/kotoykm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - Multimedia Designer
+ - Slowly becoming a dev
 
-Here are some ideas to get you started:
+## Good with 🎀
+- Motion Graphics
+- Vectorial Illustration
+- Editorial design. (I love books)
+- Making small apps in Ruby
+- Learning stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Learning to 📚
+
+- Play piano
+- Making 2d animation
+- Making bigger apps with Ruby
+- Create programs with Javascript
+- The basics of design again and again and again
+
+## 📫 How to reach me:
+The only way is by [email](kotoykm@gmail.com).
+
+
+*My way is always doing the work passionately*
+> ✨Ai-Katsu! Ai-Katsu! ✨
+> ✨アイ-カツ! アイ-カツ!✨
