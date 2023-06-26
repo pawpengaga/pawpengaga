@@ -19,8 +19,8 @@
 - The basics of design again and again and again
 
 ## 📫 How to reach me:
-The only way is by [email](kotoykm@gmail.com).
-
+The only way is by email.
+kotoykm@gmail.com
 
 *My way is always doing the work passionately*
 > ✨Ai-Katsu! Ai-Katsu! ✨
