@@ -1,22 +1,22 @@
-# 🌸About me🌸
+## 🌸About me🌸
 
  - Multimedia Designer
- - Slowly becoming a dev
+ - Developer
 
 ## Good with 🎀
 - Motion Graphics
 - Vectorial Illustration
-- Editorial design. (I love books)
-- Making small apps in Ruby
+- Editorial design
+- Making Desktop Rails Apps
 - Learning stuff
 
 ## Learning to 📚
 
 - Play piano
 - Making 2d animation
-- Making bigger apps with Ruby
+- Work with Data Structures in Ruby
 - Create programs with Javascript
-- The basics of design again and again and again
+- Basic electronics
 
 ## 📫 How to reach me:
 The only way is by email.
