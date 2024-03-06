@@ -15,8 +15,8 @@
 - Play piano
 - Create illustrations
 - Work with Data Structures
-- Making interactivity with Javascript
-- Doing basic electronics
+- Make interactivity with Javascript
+- Do basic electronics
 
 ## 📫 How to reach me:
 The only way is by email.
