@@ -1,7 +1,6 @@
 ## 🌸About me🌸
 
- - Multimedia Designer
- - Developer
+*Developer and Multimedia Designer, I'm always on the move searching for everything I find interesting. I believe that the greatest findings comes from cross-disciplinary approachments.*
 
 ## Good with 🎀
 - Motion Graphics
@@ -10,17 +9,18 @@
 - Making Desktop Rails Apps
 - Learning stuff
 
-## Learning to 📚
+## Learning to... 📚
 
+- Apply Math in my projects
 - Play piano
-- Making 2d animation
-- Work with Data Structures in Ruby
-- Create with Javascript (React.js)
-- Basic electronics
+- Create illustrations
+- Work with Data Structures
+- Making interactivity with Javascript
+- Doing basic electronics
 
 ## 📫 How to reach me:
 The only way is by email.
-kotoykm@gmail.com
+erickthomasriv@gmail.com
   
-*My way is always doing the work passionately*
+*Always with grace, always with focus*
 > ✨アイ-カツ! アイ-カツ!✨
