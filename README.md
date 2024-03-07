@@ -1,6 +1,6 @@
 ## 🌸About me🌸
 
-*Developer and Multimedia Designer, I'm always on the move searching for everything I find interesting. I believe that the greatest findings comes from cross-disciplinary approachments.*
+Developer and Multimedia Designer, I'm always on the move searching for everything I find interesting. I believe that the *greatest* findings comes from cross-disciplinary approachments.
 
 ## Good with 🎀
 - Motion Graphics
