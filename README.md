@@ -22,5 +22,5 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 The only way is by email.
 erickthomasriv@gmail.com
   
-*Always with grace, always with focus*
+*It's all over if you're satisfied with where you stand. We developers must be ever moving onwards.*
 > ✨アイ-カツ! アイ-カツ!✨
