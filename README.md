@@ -4,19 +4,20 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 
 ## Good with 🎀
 - Motion Graphics
-- Vectorial Illustration
+- Design systems
 - Editorial design
-- Making Desktop Rails Apps
+- Making Rails Apps
 - Learning stuff
 
-## Learning to... 📚
+## Learning... 📚
 
 - Apply Math in my projects
 - Play piano
-- Create illustrations
+- Drawing and Illustration
 - Work with Data Structures
+- Planning for microservices architectures
 - Make interactivity with Javascript
-- Do basic electronics
+- Do basic electronics with C and C++
 
 ## 📫 How to reach me:
 The only way is by email.
