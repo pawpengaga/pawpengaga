@@ -22,7 +22,7 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 
 - Studiying at a Java Bootcamp
 - Doing Udemy certificates
-- Working as backend and designer
+- Working as backend and UX/UI designer
 
 ## 📫 How to reach me:
 The only way is by email.
