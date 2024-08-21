@@ -12,12 +12,17 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 ## Learning... 📚
 
 - Apply Math in my projects
-- Play piano
 - Drawing and Illustration
 - Work with Data Structures
 - Planning for microservices architectures
 - Make interactivity with Javascript
 - Do basic electronics with C and C++
+
+## Currently 🌟
+
+- Studiying at a Java Bootcamp
+- Doing Udemy certificates
+- Working as backend and designer
 
 ## 📫 How to reach me:
 The only way is by email.
