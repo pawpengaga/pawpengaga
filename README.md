@@ -24,12 +24,12 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 - Doing Udemy certificates
 - Working as backend and UX/UI designer
 
+## My certificates 💎
+[<img src="rails-certificate.png" width="150">](https://www.acreditta.com/credential/2d60b892-afe4-43ee-8e32-e5f8e0ac8945?utm_source=copy&resource_type=badge&resource=2d60b892-afe4-43ee-8e32-e5f8e0ac8945)
+
 ## 📫 How to reach me:
 The only way is by email.
 erickthomasriv@gmail.com
-
-## My certificates 💎
-[<img src="rails-certificate.png" width="150">](https://www.acreditta.com/credential/2d60b892-afe4-43ee-8e32-e5f8e0ac8945?utm_source=copy&resource_type=badge&resource=2d60b892-afe4-43ee-8e32-e5f8e0ac8945)
   
 *It's all over if you're satisfied with where you stand.*
 > ✨アイ-カツ! アイ-カツ!✨
