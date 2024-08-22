@@ -15,8 +15,8 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 - Drawing and Illustration
 - Work with Data Structures
 - Planning for microservices architectures
-- Make interactivity with Javascript
-- Do basic electronics with C and C++
+- Interactivity with Javascript
+- Basic electronics with C and C++
 
 ## Currently 🌟
 
