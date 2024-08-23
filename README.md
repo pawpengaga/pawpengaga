@@ -39,6 +39,4 @@ _It's all over if you're satisfied with where you stand._
 
 > ✨ アイ-カツ! アイ-カツ!✨
 
-## Contribuitor
-
-Reynaldo J Blanco M
+###### RIP Contributor section
