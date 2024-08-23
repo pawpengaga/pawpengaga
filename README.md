@@ -3,6 +3,7 @@
 Developer and Multimedia Designer, I'm always on the move searching for everything I find interesting. I believe that the greatest findings comes from cross-disciplinary approachments.
 
 ## Good with 🎀
+
 - Motion Graphics
 - Design systems
 - Editorial design
@@ -30,8 +31,14 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 <a href="https://www.credly.com/badges/b7d66c26-1c34-4646-a9a4-165695ed2338/public_url" target="_blank"><img src="scrum-badge.png" width="150"></a>
 
 ## 📫 How to reach me:
+
 The only way is by email.
 erickthomasriv@gmail.com
-  
-*It's all over if you're satisfied with where you stand.*
-> ✨アイ-カツ! アイ-カツ!✨
+
+_It's all over if you're satisfied with where you stand._
+
+> ✨ アイ-カツ! アイ-カツ!✨
+
+## Contribuitor
+
+Reynaldo J Blanco M
