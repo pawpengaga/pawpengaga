@@ -37,6 +37,8 @@ erickthomasriv@gmail.com
 
 _It's all over if you're satisfied with where you stand._
 
+## Contribuitor
+Nano Blanco
 > ✨ アイ-カツ! アイ-カツ!✨
 
 ###### RIP Contributor section
