@@ -35,10 +35,8 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 The only way is by email.
 erickthomasriv@gmail.com
 
-_It's all over if you're satisfied with where you stand._
+*It's all over if you're satisfied with where you stand.*
 
-## Contribuitor
-Nano Blanco
-> ✨ アイ-カツ! アイ-カツ!✨
+> ✨ アイ-カツ! アイ-カツ! ✨
 
 ###### RIP Contributor section
