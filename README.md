@@ -5,7 +5,6 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 ## Good with 🎀
 
 - Motion Graphics
-- Design systems
 - Editorial design
 - Making Rails Apps
 - Learning stuff
@@ -14,10 +13,8 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 
 - Apply Math in my projects
 - Drawing and Illustration
-- Work with Data Structures
-- Planning for microservices architectures
-- Interactivity with Javascript
-- Basic electronics with C and C++
+- Microservices architectures
+- Basic C and C++ inside Ruby
 
 ## Currently 🌟
 
