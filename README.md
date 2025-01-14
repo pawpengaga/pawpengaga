@@ -35,7 +35,7 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 The only way is by email.
 erickthomasriv@gmail.com
 
-*It's all over if you're satisfied with where you stand.*
+It's all over if you're satisfied with where you stand.
 
 > ✨ アイ-カツ! アイ-カツ! ✨
 
