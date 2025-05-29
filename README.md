@@ -24,18 +24,9 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 
 ## My certificates 💎
 
-<div style="display: flex; align-items: middle; gap: 10px;">
-  <a href="#" target="_blank" style="display: flex; align-items: center;">
-    <img src="rails-certificate.png" width="150">
-  </a>
-  <a href="#" target="_blank" style="display: flex; align-items: center;">
-    <img src="java-certificate.png" width="162">
-  </a>
-  <a href="#" target="_blank" style="display: flex; align-items: center;">
-    <img src="scrum-badge.png" width="150">
-  </a>
-</div>
-
+<a href="https://www.acreditta.com/credential/2d60b892-afe4-43ee-8e32-e5f8e0ac8945?utm_source=copy&resource_type=badge&resource=2d60b892-afe4-43ee-8e32-e5f8e0ac8945" target="_blank"><img src="rails-certificate.png" width="150"></a>
+<a href="https://www.acreditta.com/credential/000ad571-abbb-4cdf-85e6-e5e7b856c603?utm_source=copy&resource_type=badge&resource=000ad571-abbb-4cdf-85e6-e5e7b856c603" target="_blank"><img src="java-certificate.png" width="150"></a>
+<a href="https://www.credly.com/badges/b7d66c26-1c34-4646-a9a4-165695ed2338/public_url" target="_blank"><img src="scrum-badge.png" width="150"></a>
 
 ## 📫 How to reach me:
 
