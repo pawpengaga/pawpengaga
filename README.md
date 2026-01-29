@@ -11,16 +11,15 @@ Developer and Multimedia Designer, I'm always on the move searching for everythi
 
 ## Learning... 📚
 
-- Apply Math in my projects
+- Laravel and PHP
 - Drawing and Illustration
-- Microservices architectures
-- Basic C and C++ inside Ruby
+- Fundamentals of Software Design
 
 ## Currently 🌟
 
-- Studiying at a Java Bootcamp
+- Doing jobs as a freelance
 - Doing Udemy certificates
-- Working as backend and UX/UI designer
+- Creating new projects
 
 ## My certificates 💎
 
